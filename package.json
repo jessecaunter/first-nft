@@ -1,0 +1,23 @@
+{
+  "name": "first-nft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessecaunter/first-nft.git"
+  },
+  "keywords": [],
+  "author": "jesse_caunter <js.caunter@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessecaunter/first-nft/issues"
+  },
+  "homepage": "https://github.com/jessecaunter/first-nft#readme",
+  "devDependencies": {
+    "hardhat": "^2.7.0"
+  }
+}
